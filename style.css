@@ -1,0 +1,7 @@
+.Live:hover{
+    transform: scale(1.1) skew(0deg);
+    transition: transform 3s ;
+    }
+    .Lives:hover{
+        color: white;
+    }
